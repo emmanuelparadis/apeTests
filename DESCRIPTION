@@ -1,0 +1,15 @@
+Package: apeTests
+Version: 0.1
+Date: 2023-02-02
+Title: Tests for the Package ape
+Authors@R: c(person("Emmanuel", "Paradis", role = c("aut", "cre", "cph"), email = "Emmanuel.Paradis@ird.fr", comment = c(ORCID = "0000-0003-3092-2199")),
+  person("Martin", "Smith", role = c("aut", "cph")))
+Depends: ape, phylobench
+Suggests: testthat (>= 3.0), vdiffr (>= 1.0)
+ZipData: no
+Description: Running tests for ape.
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+Config/Needs/check: rcmdcheck
+Config/Needs/memcheck: devtools, rcmdcheck
+Config/testthat/edition: 3
