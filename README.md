@@ -2,4 +2,4 @@
 
 Runs tests fos ape.
 
-To know more about ape: http://ape-package.ird.fr
+To know more about ape: https://emmanuelparadis.github.io

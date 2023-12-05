@@ -11,11 +11,11 @@ Tests for Package ape
   The complete list of functions can be displayed with
   \code{library(help = apeTests)}.
 
-  More information on \pkg{ape} can be found at \url{http://ape-package.ird.fr/}.
+  More information on \pkg{ape} can be found at \url{https://emmanuelparadis.github.io/}.
 }
 
 \author{
-  Emmanuel Paradis, Martin Smith
+  Emmanuel Paradis, Martin Smith, Thomas Guillerme
 
   Maintainer: Emmanuel Paradis <Emmanuel.Paradis@ird.fr>
 }
